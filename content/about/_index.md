@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  A blog template for Hugo developed by RStudio & Formspree and available for free.
+  What do you want to know? I am still on a process of self discovery. Will report back when done
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

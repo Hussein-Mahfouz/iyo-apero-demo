@@ -1,19 +1,19 @@
 social:
-- icon: facebook-square
-  icon_pack: fab
-  link: https://twitter.com/apreshill
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/apreshill
+# - icon: facebook-square
+#   icon_pack: fab
+#   link: https://twitter.com/apreshill
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://twitter.com/apreshill
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/h_mahfouz
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
+  link: https://github.com/Hussein-Mahfouz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
-- icon: rss
-  icon_pack: fas
-  link: /blog/index.xml
+  link: https://www.linkedin.com/in/hussein-mahfouz/
+# - icon: rss
+#   icon_pack: fas
+#   link: /blog/index.xml
