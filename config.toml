@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ecstatic-lamport-0e7f2c.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
